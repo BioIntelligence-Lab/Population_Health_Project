@@ -1,4 +1,8 @@
 .venv/
 Comp2Comp/
-prostate_diagnosis
+prostate_diagnosis/
+pancreas_ct/
+lung_pet_ct_dx/
 1f86a477-2af7-4ea7-8384-400d716c46fa.dcm
+input/
+output/
